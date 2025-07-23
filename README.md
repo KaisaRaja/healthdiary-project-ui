@@ -64,8 +64,10 @@ npm run build
 npm run lint
 ```
 
+## Kontakt
+Autorid: Kaisa Raja ja Christo Klettenberg
+Projekti eesmärk: Vali IT lõpuprojekt
 
-Kontakt
-Küsimuste või koostööhuvi korral: kaisaraja@gmail.com
+---
 
 © 2025 Kaisa Raja & CKlettenberg
